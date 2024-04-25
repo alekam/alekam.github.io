@@ -11732,3 +11732,14 @@ html {
     left: -2vw;
   }
 }
+
+.img {
+  width: 100%;
+}
+.btn-top  {
+  padding-left: 3px;
+}
+.btn-top i {
+  width: 48px;
+  display: inline-block;
+}
